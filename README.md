@@ -4,4 +4,4 @@
 
 ## GitHub Pages
 
-https://dicerollsnowy.github.io/profile/
+https://dicerollsnowy.github.io/profile-site/
